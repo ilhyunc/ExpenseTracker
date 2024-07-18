@@ -8,13 +8,10 @@ The ExpenseTracker app helps you keep track of your monthly expenses by categori
 - View detailed transaction history
 - Categorize expenses
 
-## White Mode
+## White Mode          |          ## Dark Mode
 
-https://github.com/user-attachments/assets/b1433da2-d018-4308-a3c9-89550fb38454
+https://github.com/user-attachments/assets/b1433da2-d018-4308-a3c9-89550fb38454    https://github.com/user-attachments/assets/62d5a958-6185-4384-9de8-376fdac0273f
 
-## Dark Mode
-
-https://github.com/user-attachments/assets/62d5a958-6185-4384-9de8-376fdac0273f
 
 
 ## JSON File
